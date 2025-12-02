@@ -1,7 +1,7 @@
 import 'package:assignment_3/screens/area_of_circle_screen.dart';
 import 'package:assignment_3/screens/arithmetic_screen.dart';
 import 'package:assignment_3/screens/palindrome_screen.dart';
-import 'package:assignment_3/screens/simple_interest_screen.dart';
+
 import 'package:flutter/material.dart';
 
 class DashboardScreen extends StatelessWidget {
