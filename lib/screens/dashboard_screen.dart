@@ -1,5 +1,6 @@
 
 import 'package:assignment_3/screens/arithmetic_screen.dart';
+import 'package:assignment_3/screens/simple_interest.dart';
 
 import 'package:flutter/material.dart';
 
