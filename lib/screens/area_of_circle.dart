@@ -1,11 +1,8 @@
 import 'package:assignment_3/common/mysnackbar.dart';
 import 'package:assignment_3/widget/my_button.dart';
 import 'package:assignment_3/widget/my_text_form_field.dart';
-import 'package:assignment_3/widgets/my_button.dart';
-import 'package:assignment_3/widgets/my_text_form_field.dart';
 import 'package:flutter/material.dart';
 
-import '../common/my_snackbar.dart';
 
 class AreaOfCircleScreen extends StatefulWidget {
   const AreaOfCircleScreen({super.key});
