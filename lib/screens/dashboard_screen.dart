@@ -1,4 +1,5 @@
 
+import 'package:assignment_3/screens/area_of_circle.dart';
 import 'package:assignment_3/screens/arithmetic_screen.dart';
 import 'package:assignment_3/screens/palindrome.dart';
 import 'package:assignment_3/screens/simple_interest.dart';
@@ -57,7 +58,8 @@ class DashboardScreen extends StatelessWidget {
                   Navigator.push(
                     context,
                     MaterialPageRoute(
-                      builder: (context) => AreaOfCircleScreen(),
+                      builder: (context) => AreaOfCircleScreen
+                      (),
                     ),
                   );
                 },
